@@ -1,0 +1,35 @@
+# custom level
+
+15 12
+
+nounBaba Is You sprWall sprWall sprWall nounFlag Is Win sprWall sprWall
+nounRock Is Push sprWall sprWall sprWall sprWall sprWall sprWall sprWall sprWall
+nounWall Is Stop sprWall sprWall sprWall sprWall sprWall sprWall sprWall sprWall
+nounSkull Is Defeat sprWall sprWall sprFlag sprWall sprWall sprWall sprWall sprWall
+sprWall sprWall sprWall sprWall EMPTY sprWall EMPTY sprWall sprWall sprWall sprWall
+sprWall sprWall sprWall sprWall sprSkull sprWall sprSkull sprSkull sprSkull sprSkull
+sprWall sprWall sprWall sprWall sprBomb sprBomb sprBomb sprWall sprWall sprWall sprWall
+sprWall sprWall sprWall sprWall sprWall EMPTY sprWall
+EMPTY EMPTY EMPTY EMPTY
+EMPTY EMPTY sprBaba EMPTY EMPTY Is nounSkull
+EMPTY EMPTY nounBomb EMPTY EMPTY sprRock Boom
+
+
+%
+
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY sprTile EMPTY sprTile EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY EMPTY sprFlower
+sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower sprFlower
+
+
+
+
